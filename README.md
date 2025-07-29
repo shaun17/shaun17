@@ -65,7 +65,7 @@
 
   <!-- 项目快捷导航 -->
   <div>
-    <img src="https://readme-components.vercel.app/api?component=buttonlink&text=探索更多项目&bgcolor=38BDAE&textcolor=white&link=https://github.com/shaun17?tab=repositories" alt="查看更多项目按钮" />
+    <img src="https://readme-components.vercel.app/api?component=button&text=learn%20more&bgcolor=38BDAE&textcolor=white&link=https://github.com/shaun17?tab=repositories" alt="查看更多项目按钮" />
   </div>
 </div>
 
@@ -81,9 +81,7 @@
   
   <!-- 3D 贡献图 -->
   <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-<!--     <img width="800px" alt="3D贡献图" src="./profile-3d-contrib/profile-night-rainbow.svg" /> -->
-        <img width="800px" alt="3D贡献图" src="./profile-3d-contrib/profile-3d.svg" />
-
+    <img width="800px" alt="3D贡献图" src="./profile-3d-contrib/profile-night-rainbow.svg" />
   </a>
   
 </div>

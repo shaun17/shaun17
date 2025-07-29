@@ -81,8 +81,11 @@
   
   <!-- 3D 贡献图 -->
   <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-    <img width="800px" alt="3D贡献图" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+<!--     <img width="800px" alt="3D贡献图" src="./profile-3d-contrib/profile-night-rainbow.svg" /> -->
+        <img width="800px" alt="3D贡献图" src="./profile-3d-contrib/profile-3d.svg" />
+
   </a>
+  
 </div>
 
 <!-- 实时编码统计 - 酷炫风格 -->

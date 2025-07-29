@@ -17,12 +17,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: '{"type":"rainbow","theme":"night-rainbow"}'
-          
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          user-name: ${{ github.repository_owner }}
+          theme-name: 'night-rainbow'
+          max-diff: false
+          # 不使用 SETTING_JSON 变量
+      
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add profile-3d-contrib/
           git commit -m "Generated 3D Contribution Graph" || echo "No changes to commit"
-          git push origin main || git push origin master || echo "Push failed - check your branch name"
+          git push origin HEAD:main || git push origin HEAD:master || echo "Push failed"

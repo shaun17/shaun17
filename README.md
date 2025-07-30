@@ -1,7 +1,7 @@
 
 <!-- 终端像素风打字机效果 -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=24&duration=2000&pause=300&color=00FF00&center=true&vCenter=true&random=false&width=600&height=60&lines=%F0%9F%9A%80+Java+%26+Spring+Framework+Expert;%F0%9F%8C%90+Microservices+Architect;%F0%9F%9B%A0%EF%B8%8F+Cloud-Native+Engineer;%F0%9F%94%A5+Distributed+Systems+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=24&duration=2000&pause=300&color=00FF00&center=true&vCenter=true&random=false&width=600&height=60&lines=%F0%9F%9A%80+Java+%26+Spring+Framework+Expert;%F0%9F%8C%90+Microservices+Architect;%F0%9F%9B%A0%EF%B8%8F+Cloud-Native+Engineer;%F0%9F%94%A5+Distributed+Systems+Designer;%F0%9F%94%A5+iOS+macOS+Designer" alt="Typing SVG" />
 </p>
 
 <!-- 终端风格分隔线 -->
@@ -17,7 +17,7 @@
         <pre style="background-color: #0d1117; color: #00FF00; padding: 15px; border-radius: 8px; font-family: 'Courier New', monospace; text-align: left">
 {
   "name": "wenren",
-  "role": "backen Engineer",
+  "role": "Backen Engineer/Client Engineer",
   "specialty": [
     "Distributed Systems",
     "Microservices Architecture",
@@ -57,39 +57,50 @@
 
 <!-- 实时编码统计 - 酷炫风格 -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**我是夜猫子 🦉** 
-
+  
+<div align="left">
+  <pre><code>$ cat coding-time</code></pre>
+</div>
+<div align="left">
+  
 ```text
-🌞 早晨                     58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-🌆 白天                     195 commits         ████████░░░░░░░░░░░░░░░░░   31.91 % 
-🌃 傍晚                     283 commits         ████████████░░░░░░░░░░░░░   46.32 % 
-🌙 晚上                     75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-```
-📅 **我最有效率是在 星期一** 
-
-```text
-星期一                      128 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-星期二                      111 commits         █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-星期三                      92 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-星期四                      114 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-星期五                      47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-星期六                      50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-星期日                      69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+🌞 Morning                  58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+🌆 Daytime                  195 commits         ████████░░░░░░░░░░░░░░░░░   31.97 % 
+🌃 Evening                  282 commits         ████████████░░░░░░░░░░░░░   46.23 % 
+🌙 Night                    75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 ```
 
-
-📊 **本周消耗时间** 
-
+</div>
+<div align="left">
+  <pre><code>$ stats --user wenren --interval weekly</code></pre>
+</div>
+<div align="left">
+  
 ```text
-💬 编程语言: 
-本周没有记录到任何活动
+Mon                       128 commits         █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Tue                       111 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Wed                       91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Thu                       114 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Fri                       47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Sat                       50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Sun                       69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
 ```
+</div>
 
+<div align="left">
+  <pre><code>$ cat coding-language</code></pre>
+</div>
+<div align="left">
+  
+  ```text
+  Java                      █████████▓░░░░░░░░░  45.25%
+  Swift UI                  ████████▒░░░░░░░░░░  38.40%
+  Python                    ████▒░░░░░░░░░░░░░░  12.15%
+  Markdown                  █▓▒░░░░░░░░░░░░░░░░   6.13%
+  Node                      ▒░░░░░░░░░░░░░░░░░░   2.07%
+  ```
 
- Last Updated on 30/07/2025 12:59:33 UTC
-<!--END_SECTION:waka--> 
+  <!--END_SECTION:waka--> 
 </div>
 
 

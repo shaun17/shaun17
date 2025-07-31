@@ -1,7 +1,7 @@
 
 <!-- 终端像素风打字机效果 -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=24&duration=2000&pause=300&color=00FF00&center=true&vCenter=true&random=false&width=600&height=60&lines=%F0%9F%9A%80+Java+%26+Spring+Framework+Expert;%F0%9F%8C%90+Microservices+Architect;%F0%9F%9B%A0%EF%B8%8F+Cloud-Native+Engineer;%F0%9F%94%A5+Distributed+Systems+Designer;%F0%9F%94%A5+iOS+macOS+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=24&duration=2000&pause=300&color=00FF00&center=true&vCenter=true&random=false&width=600&height=60&lines=%F0%9F%9A%80+Java+%26+Spring+Framework+Expert;%F0%9F%8C%90+Microservices+Architect;%F0%9F%9B%A0%EF%B8%8F+Cloud-Native+Engineer;%F0%9F%94%A5+Distributed+Systems+Designer;%F0%9F%94%A5+iOS+%26+macOS+Designer" alt="Typing SVG" />
 </p>
 
 <!-- 终端风格分隔线 -->
@@ -69,7 +69,7 @@ Node                      ▒░░░░░░░░░░░░░░░░░
 <!-- 终端风格分隔线 -->
   
 <div align="left">
-  <pre><code>$ cat coding-time</code></pre>
+  <pre><code>$ tail -n20 coding-time</code></pre>
 </div>
 
 
@@ -108,7 +108,6 @@ No Activity Tracked This Week
 
  Last Updated on 31/07/2025 12:58:01 UTC
 <!--END_SECTION:waka--> 
-</div>
 
 
 <div align="left">

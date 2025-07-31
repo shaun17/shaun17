@@ -17,7 +17,7 @@
         <pre style="background-color: #0d1117; color: #00FF00; padding: 15px; border-radius: 8px; font-family: 'Courier New', monospace; text-align: left">
 {
   "name": "wenren",
-  "role": "Backen Engineer/Client Engineer",
+  "role": "Backend Developer/Client Engineer",
   "specialty": [
     "Distributed Systems",
     "Microservices Architecture",

@@ -51,8 +51,26 @@
   </table>
 </div>
 
-<!-- 终端风格分隔线 -->
 
+<div align="left">
+  <pre><code>$ cat coding-language</code></pre>
+</div>
+
+<div align="left">
+  
+```text
+Java                      █████████▓░░░░░░░░░  45.25%
+Swift UI                  ██████▓░░░░░░░░░░░░  38.40%
+Python                    ████▒░░░░░░░░░░░░░░  12.15%
+Markdown                  █▓▒░░░░░░░░░░░░░░░░   6.13%
+Node                      ▒░░░░░░░░░░░░░░░░░░   2.07%
+```
+</div>
+<!-- 终端风格分隔线 -->
+  
+<div align="left">
+  <pre><code>$ cat coding-time</code></pre>
+</div>
 
 
 <!-- 实时编码统计 - 酷炫风格 -->

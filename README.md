@@ -77,8 +77,36 @@ Node                      ▒░░░░░░░░░░░░░░░░░
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 31/05/2026 05:13:33 UTC
+```text
+🌞 Morning                534 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+🌆 Daytime                1392 commits        █████████░░░░░░░░░░░░░░░░   37.84 % 
+🌃 Evening                1617 commits        ███████████░░░░░░░░░░░░░░   43.95 % 
+🌙 Night                  136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Tuesday                  570 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Wednesday                546 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Thursday                 520 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Friday                   472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Saturday                 491 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Sunday                   646 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 31/05/2026 14:33:54 UTC
 <!--END_SECTION:waka--> 
 
 

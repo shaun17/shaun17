@@ -109,28 +109,6 @@ No Activity Tracked This Week
  Last Updated on 19/07/2026 14:30:18 UTC
 <!--END_SECTION:waka--> 
 
-
-<!-- <div align="left">
-  <pre><code>$ cat coding-contribute </code></pre>
-</div> -->
-<!-- 酷炫的 3D 贡献图 -->
-<!-- <div align="left">
-  
-  <!-- 3D 贡献图 -->
-  <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-    <img style="max-width: 100%; height: auto;" alt="3D贡献图" src="./profile-3d-contrib/profile-night-green.svg" />
-  </a>
-  
-</div> -->
-
-  <!-- 终端风格分隔线 --
-  <div align="center"> <pre><code>$ display stats --theme pixel</code></pre> </div>
-  <!-- 像素风格统计卡片 --
-  <div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shaun17&theme=dark" alt="GitHub Streak" /></a>    
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shaun17&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=5&bg_color=0D1117&include_all_commits=true&count_private=true&title_color=00FF00&icon_color=00FF00"/> 
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shaun17&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=5&bg_color=0D1117&langs_count=8&title_color=00FF00"/> 
-    </div> 
   
   <!-- 终端风格联系方式 --> 
   <div align="left"> <pre><code>$ contact --method preferred</code></pre> </div> 

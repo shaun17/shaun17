@@ -110,18 +110,18 @@ No Activity Tracked This Week
 <!--END_SECTION:waka--> 
 
 
-<div align="left">
+<!-- <div align="left">
   <pre><code>$ cat coding-contribute </code></pre>
-</div>
+</div> -->
 <!-- 酷炫的 3D 贡献图 -->
-<div align="left">
+<!-- <div align="left">
   
   <!-- 3D 贡献图 -->
   <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
     <img style="max-width: 100%; height: auto;" alt="3D贡献图" src="./profile-3d-contrib/profile-night-green.svg" />
   </a>
   
-</div>
+</div> -->
 
   <!-- 终端风格分隔线 --
   <div align="center"> <pre><code>$ display stats --theme pixel</code></pre> </div>

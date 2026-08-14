@@ -1,0 +1,44 @@
+name: Update Language Stats
+
+on:
+  schedule:
+    - cron: "17 21 * * *" # 05:17 Asia/Singapore
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Refresh language statistics
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate language statistics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/update-language-stats.mjs
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Language statistics are already current."
+            exit 0
+          fi
+
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add README.md
+          git commit -m "Update language statistics"
+          git pull --rebase origin main
+          git push origin HEAD:main

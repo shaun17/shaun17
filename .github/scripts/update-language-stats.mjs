@@ -83,7 +83,7 @@ if (start === -1 || end === -1 || start >= end) {
   throw new Error("Language section markers are missing or invalid");
 }
 
-const section = `${startMarker}\n\`\`\`text\n${rows.join("\n")}\n\`\`\`\n`;
+const section = `${startMarker}\n${rows.join("\n")}\n`;
 const updated = `${readme.slice(0, start)}${section}${readme.slice(end)}`;
 await writeFile("README.md", updated);
 

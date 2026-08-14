@@ -1,8 +1,4 @@
 
-<!-- 终端像素风打字机效果 -->
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=24&duration=2000&pause=300&color=00FF00&center=true&vCenter=true&random=false&width=600&height=60&lines=%F0%9F%9A%80+Java+%26+Spring+Framework+Expert;%F0%9F%8C%90+Microservices+Architect;%F0%9F%9B%A0%EF%B8%8F+Cloud-Native+Engineer;%F0%9F%94%A5+Distributed+Systems+Designer;%F0%9F%94%A5+iOS+%26+macOS+Designer" alt="Typing SVG" />
-</p>
 
 <!-- 终端风格分隔线 -->
 <div align="left">
@@ -114,18 +110,3 @@ No AI Coding Activity Tracked This Week
 
  Last Updated on 14/08/2026 03:58:05 UTC
 <!--END_SECTION:waka--> 
-
-  
-  <!-- 终端风格联系方式 --> 
-  <div align="left"> <pre><code>$ contact --method preferred</code></pre> </div> 
-  <!-- 像素风联系按钮 --> 
-  <div align="left"> 
-    <a href="https://github.com/shaun17">  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=0D1117&color=0D1117"> </a> 
-    <a href="mailto:wenrencc@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=0D1117&color=0D1117"> </a> 
-    <a href="https://x.com/thisiswenren"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=00FF00&labelColor=0D1117&color=0D1117"> </a> 
-    
-  </div> 
-  
-<div align="center"> 
-      <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=END+OF+TRANSMISSION&fontSize=16&fontColor=00FF00&animation=fadeIn&fontFamily=Fira%20Code&color=0:0D1117,100:0D1117" width="100%" /> 
-</div> 

@@ -100,17 +100,14 @@ Java                      ██░░░░░░░░░░░░░░░░
       <td>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                775 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-🌆 Daytime                1902 commits        █████████░░░░░░░░░░░░░░░░   37.57 % 
-🌃 Evening                2130 commits        ███████████░░░░░░░░░░░░░░   42.08 % 
-🌙 Night                  255 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+ Morning                775 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+ Daytime                1902 commits        █████████░░░░░░░░░░░░░░░░   37.57 % 
+ Evening                2130 commits        ███████████░░░░░░░░░░░░░░   42.08 % 
+ Night                  255 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 ```
-📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   630 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
@@ -123,24 +120,19 @@ Sunday                   997 commits         █████░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
 No Activity Tracked This Week
 ```
 
-🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+ Last Updated on 14/08/2026 03:58:05 UTC
 ```
 
-
- Last Updated on 14/08/2026 03:58:05 UTC
 <!--END_SECTION:waka-->
 
-      </td>
-    </tr>
+    
   </table>
 </div>

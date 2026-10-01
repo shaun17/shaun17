@@ -76,10 +76,10 @@
     <tr>
       <td>
         <pre style="background-color: #0d1117; color: #00FF00; padding: 15px; border-radius: 8px; font-family: 'Courier New', monospace; text-align: left"><!--START_SECTION:languages-->
-Swift                     ███████░░░░░░░░░░░░░  36.33%
-Python                    ████░░░░░░░░░░░░░░░░  20.02%
-TypeScript                ███░░░░░░░░░░░░░░░░░  17.33%
-JavaScript                ██░░░░░░░░░░░░░░░░░░  11.33%
+Swift                     ███████░░░░░░░░░░░░░  36.31%
+Python                    ████░░░░░░░░░░░░░░░░  20.01%
+TypeScript                ███░░░░░░░░░░░░░░░░░  17.32%
+JavaScript                ██░░░░░░░░░░░░░░░░░░  11.36%
 Java                      ██░░░░░░░░░░░░░░░░░░   9.04%
 <!--END_SECTION:languages--></pre>
       </td>
